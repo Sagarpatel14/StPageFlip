@@ -1,10 +1,10 @@
 import React from "react";
-import DualTextBox from "./components/TextBox";
+// import DualTextBox from "./components/TextBox";
 
 function App() {
   return (
     <div>
-      <DualTextBox maxLength={100} />
+      <h1>Hello world</h1>
     </div>
   );
 }
